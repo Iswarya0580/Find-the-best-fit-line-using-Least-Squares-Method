@@ -1,4 +1,6 @@
 # Implementation of Univariate Linear Regression
+
+
 ## AIM:
 To implement univariate Linear Regression to fit a straight line using least squares.
 
@@ -47,13 +49,6 @@ plt.show()
 ```
 
 ## Output:
-```
-Enter X value: 8,12,21,6,15
-Enter Y value: 3,10,31,6,8
-The m value is:  1.6416430594900853
-The b value is:  -8.75637393767706
-The Y_Predicted value is:  [ 4.37677054 10.94334278 25.71813031  1.09348442 15.86827195]
-```
 
 ![image](https://github.com/user-attachments/assets/73118cbd-f4eb-4f71-ab9b-fe13b22ecdea)
 

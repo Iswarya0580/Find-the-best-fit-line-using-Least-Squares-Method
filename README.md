@@ -41,7 +41,6 @@ print("The m value is: ",m)
 print("The b value is: ",b)
 y_predicted=m*X+b
 print("The Y_Predicted value is: ",y_predicted)
-
 plt.scatter(X,Y)
 plt.plot(X,y_predicted,color='red')
 plt.show()
